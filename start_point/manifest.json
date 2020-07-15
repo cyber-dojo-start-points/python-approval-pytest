@@ -1,6 +1,6 @@
 {
   "display_name": "Python, approval-pytest",
-  "image_name": "cyberdojofoundation/python_approval_pytest:df8e30e",
+  "image_name": "cyberdojofoundation/python_approval_pytest:55faecb",
   "visible_filenames": [
     "hiker.py",
     "test_hiker.py",
