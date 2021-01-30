@@ -25,6 +25,7 @@ trap cyber_dojo_exit EXIT SIGTERM
 coverage3 run \
   --source=${CYBER_DOJO_SANDBOX} \
   --module pytest \
+  --random-order-bucket=global \
     --approvaltests-use-reporter='PythonNative'
 
 # https://coverage.readthedocs.io/en/v4.5.x/index.html
