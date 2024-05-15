@@ -1,18 +1,8 @@
 {
-  "display_name": "Python 3.12, approval-pytest 0.2.4",
-  "image_name": "cyberdojofoundation/python_approval_pytest:bcd7dd8",
-  "visible_filenames": [
-    "hiker.py",
-    "test_hiker.py",
-    "cyber-dojo.sh",
-    "test_hiker.test_global.approved.txt",
-    "test_hiker.test_instance.approved.txt"
-  ],
-  "filename_extension": [
-    ".py",
-    ".approved.txt",
-    ".received.txt"
-  ],
-  "max_seconds": 10,
-  "tab_size": 4
+    "display_name": "Python 3.12, approvaltests-12.0.0",
+    "image_name": "cyberdojofoundation/python_approval_pytest:0db3eb4",
+    "visible_filenames": ["hiker.py", "test_hiker.py", "cyber-dojo.sh"],
+    "filename_extension": [".py", ".approved.txt", ".received.txt"],
+    "max_seconds": 10,
+    "tab_size": 4
 }
