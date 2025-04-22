@@ -1,6 +1,6 @@
 {
-  "display_name": "Python 3.13, pytest-approvaltests 0.2.4-14.3",
-    "image_name": "ghcr.io/cyber-dojo-languages/python_approval_pytest:0bcfc1c",
+  "display_name": "Python 3.13, pytest-approvaltests 0.2.4-14.5",
+    "image_name": "ghcr.io/cyber-dojo-languages/python_approval_pytest:692b778",
     "visible_filenames": ["hiker.py", "test_hiker.py", "cyber-dojo.sh"],
     "filename_extension": [".py", ".approved.txt", ".received.txt"],
     "max_seconds": 10,
