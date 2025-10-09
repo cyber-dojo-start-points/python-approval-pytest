@@ -31,7 +31,7 @@ coverage3 run \
   --random-order-bucket=global \
   --approvaltests-use-reporter='PythonNative'
 
-# https://coverage.readthedocs.io/en/v4.5.x/index.html
+# https://coverage.readthedocs.io
 echo
 coverage3 report \
   --show-missing \
