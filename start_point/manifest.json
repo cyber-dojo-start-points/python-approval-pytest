@@ -1,6 +1,6 @@
 {
-  "display_name": "Python 3.14.3, pytest-approval 17.1.1",
-  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_pytest:5279092",
+  "display_name": "Python 3.14.3, pytest-approval 17.2.1",
+  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_pytest:0839d76",
   "visible_filenames": [
     "hiker.py",
     "test_hiker.py",
