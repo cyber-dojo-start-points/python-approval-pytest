@@ -1,4 +1,4 @@
-[![Github CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="Python 3.14.3, pytest-approval 0.2.4"
 ### image_name=[ghcr.io/cyber-dojo-languages/python_approval_pytest](https://ghcr.io/cyber-dojo-languages/python_approval_pytest)
