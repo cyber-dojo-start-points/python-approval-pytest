@@ -8,7 +8,7 @@
     "pytest-approval",
     "0.2.4"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_pytest:c0cd71a",
+  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_pytest:d3a7aad",
   "visible_filenames": [
     "hiker.py",
     "test_hiker.py",
