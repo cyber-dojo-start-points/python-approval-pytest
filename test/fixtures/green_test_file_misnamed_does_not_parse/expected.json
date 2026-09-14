@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 50,
+  "match_counts": {
+    "^hiker_tests\\.py:[0-9]+: error: ": 1,
+    "^=+ 1 passed in ": 1,
+    "^Couldn't parse '.*hiker_tests\\.py' as Python source: ": 1,
+    "^TOTAL ": 0
+  }
+}

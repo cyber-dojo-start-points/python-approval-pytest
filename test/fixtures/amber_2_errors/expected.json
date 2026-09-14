@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^collected 2 items$": 1,
+    "^hiker\\.py:[0-9]+: IndexError$": 2,
+    "ApprovalException": 0,
+    "^=+ 2 failed in ": 1
+  }
+}

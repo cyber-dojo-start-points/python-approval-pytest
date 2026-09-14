@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^collected 0 items$": 1,
+    "^=+ no tests ran in ": 1,
+    "=== FAILURES ===": 0,
+    "=== ERRORS ===": 0,
+    " passed in ": 0
+  }
+}

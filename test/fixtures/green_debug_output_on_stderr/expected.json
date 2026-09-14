@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 70,
+  "match_counts": {
+    "^collected 1 item$": 1,
+    "^=+ 1 passed in ": 1,
+    "^answer was called$": 0
+  }
+}

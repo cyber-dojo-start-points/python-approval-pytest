@@ -1,0 +1,10 @@
+{
+  "match_counts": {
+    "^test_hiker\\.py:[0-9]+: error: ": 1,
+    "^collected 0 items / 1 error$": 1,
+    "^E +SyntaxError: ": 1,
+    "^ERROR test_hiker\\.py$": 1,
+    "^=+ 1 error in ": 1,
+    " passed in ": 0
+  }
+}

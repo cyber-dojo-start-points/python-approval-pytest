@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^collected 2 items$": 1,
+    "^test_answer_size\\.py:[0-9]+: ApprovalException$": 1,
+    "^FAILED test_answer_size\\.py::test_the_answer_is_three_digits_long ": 1,
+    "^=+ 1 failed, 1 passed in ": 1
+  }
+}

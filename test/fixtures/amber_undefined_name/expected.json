@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^collected 1 item$": 1,
+    "^E +NameError: name 'ansewr' is not defined$": 1,
+    "^test_hiker\\.py:[0-9]+: NameError$": 1,
+    "ApprovalException": 0,
+    "^=+ 1 failed in ": 1
+  }
+}

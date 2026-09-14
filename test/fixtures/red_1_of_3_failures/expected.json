@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^collected 3 items$": 1,
+    "^test_hiker\\.py:[0-9]+: ApprovalException$": 1,
+    "^FAILED test_hiker\\.py::test_life_the_universe_and_everything ": 1,
+    "^=+ 1 failed, 2 passed in ": 1
+  }
+}

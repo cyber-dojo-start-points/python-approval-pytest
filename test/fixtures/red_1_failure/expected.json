@@ -1,0 +1,11 @@
+{
+  "match_counts": {
+    "^collected 1 item$": 1,
+    "^test_hiker\\.py F +\\[100%\\]$": 1,
+    "^E +approvaltests\\.approval_exception\\.ApprovalException: Approval Mismatch, received != approved$": 1,
+    "^test_hiker\\.py:[0-9]+: ApprovalException$": 1,
+    "^ +\\*+ DELETE ME TO APPROVE \\*+$": 1,
+    "^=+ 1 failed in ": 1,
+    " passed in ": 0
+  }
+}

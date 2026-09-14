@@ -24,6 +24,17 @@ lambda { |stdout,stderr,status|
          Regexp.new(".*:[0-9]+: #{syntax_error_prefix}Error").match(output)
   end
 
+  # Nothing was collected, so nothing was proved either way.
+  return :amber if /no tests ran/.match(output)
+
   return :green if /=== (\d+) passed/.match(output)
-  return :red
+
+  # A failing test prints a FAILURES block, so red is named rather than
+  # assumed. Output holding none of the above says nothing about the tests:
+  # it is what a run looks like when it died before printing a summary, or
+  # printed so much that the summary fell outside what reaches here. Red
+  # would claim a test ran and disagreed with the code, which is more than
+  # is known.
+  return :red if /=== FAILURES ===/.match(output)
+  return :amber
 }

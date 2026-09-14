@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^collected 3 items$": 1,
+    "^test_hiker\\.py FFF +\\[100%\\]$": 1,
+    "^test_hiker\\.py:[0-9]+: ApprovalException$": 3,
+    "^=+ 3 failed in ": 1,
+    " passed in ": 0
+  }
+}
