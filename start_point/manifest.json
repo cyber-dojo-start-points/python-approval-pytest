@@ -20,6 +20,5 @@
     ".approved.txt",
     ".received.txt"
   ],
-  "max_seconds": 10,
   "tab_size": 4
 }
