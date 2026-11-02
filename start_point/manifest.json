@@ -1,14 +1,14 @@
 {
-  "display_name": "Python 3.15.1, pytest-approval 0.2.4",
+  "display_name": "Python 3.15.2, pytest-approval 0.2.4",
   "language": [
     "Python",
-    "3.15.1"
+    "3.15.2"
   ],
   "test_framework": [
     "pytest-approval",
     "0.2.4"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_pytest:907439b@sha256:514e3af485c3399bbea478ac22164df4eab54bbf6843064dc74eb20dc16445a7",
+  "image_name": "ghcr.io/cyber-dojo-languages/python_approval_pytest:72dadf4@sha256:6dc75b8e877235ab810f088425d1c268517cc9ce1ecca606c9121254f2ccfb54",
   "visible_filenames": [
     "hiker.py",
     "test_hiker.py",
